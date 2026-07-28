@@ -2,7 +2,7 @@
 quick vue ToDo-ListApp
 
 ## Projektstruktur
-<!-- 
+```text 
 todo-app/
 ├── src/
 │   ├── domain/                     # Isolierte Geschäftslogik & Datenmodelle
@@ -23,4 +23,4 @@ todo-app/
 │   │       └── de.json             # Deutsche Übersetzungs-Keys
 │   ├── App.vue                     # Root-Komponente
 │   └── main.ts                     # Entry-Point & Plugin-Registrierung (Vite, i18n)
--->
+```
