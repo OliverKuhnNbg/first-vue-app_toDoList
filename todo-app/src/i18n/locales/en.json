@@ -1,0 +1,10 @@
+{
+  "todo": {
+    "title": "My Tasks",
+    "placeholder": "Enter a new task...",
+    "add": "Add",
+    "remove": "Delete",
+    "empty": "No tasks yet.",
+    "remaining": "{count} task(s) remaining"
+  }
+}
