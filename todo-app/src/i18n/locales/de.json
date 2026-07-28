@@ -1,0 +1,10 @@
+{
+  "todo": {
+    "title": "Meine Aufgaben",
+    "placeholder": "Neue Aufgabe eingeben...",
+    "add": "Hinzufügen",
+    "remove": "Löschen",
+    "empty": "Keine Aufgaben vorhanden.",
+    "remaining": "{count} offene Aufgabe(n)"
+  }
+}
